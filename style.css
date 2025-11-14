@@ -8,8 +8,8 @@
 }
 
 window#waybar {
-    background-color: #282828;
-    border-bottom: 1px solid #EBDBB2;
+    background-color: #2E3440;
+    border-bottom: 1px solid #4C566A;
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
